@@ -1,1 +1,1 @@
-# vue-cinema
+# vue-Cinema
